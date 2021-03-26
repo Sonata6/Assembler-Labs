@@ -1,1 +1,1 @@
-This repository consists lab works in tasm language
+This repository contains lab works in tasm language
